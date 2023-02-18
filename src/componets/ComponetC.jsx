@@ -15,6 +15,8 @@ export const ComponetC = () => {
       <h3 > {output}</h3>
      
     </div>
+    <br />
+    
     </div>
   )
 }

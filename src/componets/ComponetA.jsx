@@ -7,9 +7,9 @@ export const ComponetA = () => {
     <div  >
         <ComponetB/>
         <br />
-        <hr />
+    
         <ComponetC/>
-
+<br />
     </div>
   )
 }

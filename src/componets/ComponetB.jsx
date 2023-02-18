@@ -9,9 +9,14 @@ export const ComponetB = () => {
 
     }
   return (
+    <>
     <div style={{border:"1px solid red"}}>
         <h1>ComponetB</h1>
        inputFeild <input type="text" onChange={textField}  placeholder="Enter a text"/>
+       <br />
+       <br />
     </div>
+    <br />
+    </>
   )
 }
